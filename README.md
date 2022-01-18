@@ -1,2 +1,4 @@
 # progdata-class-solutions
-Solutions for Programming with Data
+
+This repository contains solutions for Dr. Wiernik's Programming with Data class
+
